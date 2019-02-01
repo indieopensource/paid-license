@@ -1,10 +1,10 @@
-# Sofwtare License Terms
+# Software License Terms
 
-## Order Form<a id="Order_Form"></a>
+## <a id="Order_Form"></a>Order Form
 
 These terms, together with the **Order Form** referencing them, make up a software license agreement. The terms **Developer**, **Customer**, and **Use Limits** are defined on the _Order Form_.
 
-## Software<a id="Software"></a>
+## <a id="Software"></a>Software
 
 1.  **Software** means the software identified on the _Order Form_.
 
@@ -18,33 +18,33 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
     4.  A version of the _Software_ is **Generally Available** if _Developer_ offers to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
 
-## Vendor's Obligations<a id="Vendor's_Obligations"></a>
+## <a id="Vendor's_Obligations"></a>Vendor's Obligations
 
-### Provide a Download<a id="Provide_a_Download"></a>
+### <a id="Provide_a_Download"></a>Provide a Download
 
 _Developer_ agrees to make the _Latest Version of the Software_ available for _Customer Personnel_ to download, free of charge, via the Internet.
 
-### Make Sure Customer Can Download Software Dependencies<a id="Make_Sure_Customer_Can_Download_Software_Dependencies"></a>
+### <a id="Make_Sure_Customer_Can_Download_Software_Dependencies"></a>Make Sure Customer Can Download Software Dependencies
 
 _Developer_ agrees to make sure any _Software Dependencies_ of the _Latest Version of the Software_ not included in the download of the _Latest Version of the Software_ are _Publicly Licensed_ and generally available for _Customer_ to download, free of charge, from a _Public Software Repository_. _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
 
-### Provide Any License Keys<a id="Provide_Any_License_Keys"></a>
+### <a id="Provide_Any_License_Keys"></a>Provide Any License Keys
 
 _Developer_ agrees to give _Customer_ _Notice_ of any _License Keys_ required to use the _Latest Version of the Software_ on entering into this agreement. _Developer_ agrees to give _Customer_ _Notice_ of any additional _License Keys_ required to use any new _Latest Version of the Software_ when released.
 
-### Publish Documentation<a id="Publish_Documentation"></a>
+### <a id="Publish_Documentation"></a>Publish Documentation
 
 _Developer_ agrees to publish the _Documentation_ so that _Customer Personnel_ can read it, free of charge, via the Internet. _Developer_ agrees to make sure the _Documentation_ contains instructions that enable a system administrator experienced with a supported operating system to install, configure, and run the _Latest Version of the Software_.
 
-### Refund Prepaid Fees for Removed Functionality<a id="Refund_Prepaid_Fees_for_Removed_Functionality"></a>
+### <a id="Refund_Prepaid_Fees_for_Removed_Functionality"></a>Refund Prepaid Fees for Removed Functionality
 
 If _Developer_ changes or removes functionality from the _Latest Version of the Software_ that was part of the functionality of the prior _Latest Version of the Software_, substantially reducing how useful the _Software_ is to _Customer_, and _Customer_ ends this agreement within three calendar months of the change, citing the change, _Developer_ agrees to refund any _Prepaid Fees_.
 
-### Keep Malicious Code Out of the Software<a id="Keep_Malicious_Code_Out_of_the_Software"></a>
+### <a id="Keep_Malicious_Code_Out_of_the_Software"></a>Keep Malicious Code Out of the Software
 
 _Developer_ agrees to keep the _Software_ free of malicious code, such as computer worms and viruses.
 
-### Limit Validation Code in the Software<a id="Limit_Validation_Code_in_the_Software"></a>
+### <a id="Limit_Validation_Code_in_the_Software"></a>Limit Validation Code in the Software
 
 With the following exceptions, _Developer_ agrees to keep the _Software_ free of code that automatically limits or disables its functionality:
 
@@ -54,11 +54,11 @@ With the following exceptions, _Developer_ agrees to keep the _Software_ free of
 
 3.  _Developer_ may include code that reports data about _License Keys_ validation and _Use Limits_ monitoring back to _Developer_ systems.
 
-### Protect Customer from Liability<a id="Protect_Customer_from_Liability"></a>
+### <a id="Protect_Customer_from_Liability"></a>Protect Customer from Liability
 
 So long as _Customer_ has met its obligations under [Pay Fees](#Pay_Fees):
 
-#### Indemnify Customer<a id="Indemnify_Customer"></a>
+#### <a id="Indemnify_Customer"></a>Indemnify Customer
 
 Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Customer_ _Indemnification_ for _Legal Claims_ by others alleging that _Permitted Use of the Software_ does any of these:
 
@@ -68,41 +68,41 @@ Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agre
 
 3.  breaks any law
 
-#### Provide Assurance About Patents<a id="Provide_Assurance_About_Patents"></a>
+#### <a id="Provide_Assurance_About_Patents"></a>Provide Assurance About Patents
 
 _Developer_'s guarantee about patents depends on the _Order Form_:
 
-##### Standard Patent Guarantee<a id="Standard_Patent_Guarantee"></a>
+##### <a id="Standard_Patent_Guarantee"></a>Standard Patent Guarantee
 
 If the _Order Form_ specifies a standard patent guarantee, or does not specify any particular patent guarantee, then _Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent that _Developer_ would infringe by licensing the _Software_ under this agreement, or that _Customer_ would infringe by _Permitted Use of the Software_.
 
-##### Extended Patent Guarantee<a id="Extended_Patent_Guarantee"></a>
+##### <a id="Extended_Patent_Guarantee"></a>Extended Patent Guarantee
 
 If the _Order Form_ specifies an extended patent guarantee, then _Developer_ guarantees that _Developer_ will not infringe any patent by licensing the _Software_ under this agreement, and that _Customer_ will not infringe any patent by _Permitted Use of the Software_.
 
-#### Give Notice of Infringement Claims<a id="Give_Notice_of_Infringement_Claims"></a>
+#### <a id="Give_Notice_of_Infringement_Claims"></a>Give Notice of Infringement Claims
 
 _Developer_ agrees to give _Customer_ prompt _Notice_ of any _Infringement Claim_.
 
-### Protect Customer After this Agreement Ends<a id="Protect_Customer_After_this_Agreement_Ends"></a>
+### <a id="Protect_Customer_After_this_Agreement_Ends"></a>Protect Customer After this Agreement Ends
 
 [Indemnify Customer](#Indemnify_Customer) continues after this agreement ends.
 
-## Customer's Obligations<a id="Customer's_Obligations"></a>
+## <a id="Customer's_Obligations"></a>Customer's Obligations
 
-### Pay Fees<a id="Pay_Fees"></a>
+### <a id="Pay_Fees"></a>Pay Fees
 
 _Customer_ agrees to pay the license fees specified on the _Order Form_. _Customer_ agrees to pay those fees when specified on the _Order Form_, if not specified, on entering into this agreement. _Customer_ agrees to pay using the method specified on the _Order Form_. _Customer_ agrees to pay all tax on fees under this agreement, except tax _Developer_ owes on income.
 
-### Pay Fees Owed After this Agreement Ends<a id="Pay_Fees_Owed_After_this_Agreement_Ends"></a>
+### <a id="Pay_Fees_Owed_After_this_Agreement_Ends"></a>Pay Fees Owed After this Agreement Ends
 
 [Pay Fees](#Pay_Fees) continues after this agreement ends.
 
-### Keep License Keys Confidential and Secure<a id="Keep_License_Keys_Confidential_and_Secure"></a>
+### <a id="Keep_License_Keys_Confidential_and_Secure"></a>Keep License Keys Confidential and Secure
 
 _Customer_ agrees to share _License Keys_ only as needed to use the _Software_ under this agreement, and to secure _License Keys_ at least as well as _Customer_'s own confidential information.
 
-### Follow Rules About Use<a id="Follow_Rules_About_Use"></a>
+### <a id="Follow_Rules_About_Use"></a>Follow Rules About Use
 
 _Customer_ agrees not to:
 
@@ -128,11 +128,11 @@ _Customer_ agrees not to:
 
 11.  disclose data about the performance of the _Software_
 
-### Enforce Rules About Use<a id="Enforce_Rules_About_Use"></a>
+### <a id="Enforce_Rules_About_Use"></a>Enforce Rules About Use
 
 _Customer_ agrees to make sure _Customer Personnel_ and other personnel abide by [Keep License Keys Confidential and Secure](#Keep_License_Keys_Confidential_and_Secure) and [Follow Rules About Use](#Follow_Rules_About_Use).
 
-### Indemnify Vendor<a id="Indemnify_Vendor"></a>
+### <a id="Indemnify_Vendor"></a>Indemnify Vendor
 
 Subject to [Indemnification Process](#Indemnification_Process), _Customer_ agrees to give _Developer_ _Indemnification_ from _Legal Claims_ by others based on:
 
@@ -142,17 +142,17 @@ Subject to [Indemnification Process](#Indemnification_Process), _Customer_ agree
 
 3.  misuse of _Customer_'s _License Keys_
 
-## Intellectual Property<a id="Intellectual_Property"></a>
+## <a id="Intellectual_Property"></a>Intellectual Property
 
-### Software Copyright License<a id="Software_Copyright_License"></a>
+### <a id="Software_Copyright_License"></a>Software Copyright License
 
 _Developer_ grants _Customer_ and each of the _Users_ a _Standard License_, for any copyrights in _Covered Versions_ of the _Software_ that _Developer_ can license, to copy, install, back up, and make _Permitted Use of the Software_.
 
-### Software Patent License<a id="Software_Patent_License"></a>
+### <a id="Software_Patent_License"></a>Software Patent License
 
 _Developer_ grants _Customer_ and each of the _Users_ a _Standard License_, for any patents _Developer_ can license, to make _Permitted Use of the Software_.
 
-### Documentation Copyright License<a id="Documentation_Copyright_License"></a>
+### <a id="Documentation_Copyright_License"></a>Documentation Copyright License
 
 _Developer_ grants _Customer_ and _Customer Personnel_ a _Standard License_, for any copyrights in the _Documentation_ that _Developer_ can license, to read, back up, and copy the _Documentation_.
 
@@ -160,23 +160,23 @@ _Developer_ grants _Customer_ and _Customer Personnel_ a _Standard License_, for
 
 **Standard License** means a nonexclusive license for the term of this agreement that is conditional on payment of all fees as required by this agreement and limited by the _Use Limits_.
 
-### Publicity License<a id="Publicity_License"></a>
+### <a id="Publicity_License"></a>Publicity License
 
 If the _Order Form_ specifies publicity rights, then _Developer_ may identify _Customer_ as a customer to current and potential customers, and may list _Customer_'s business name and logo in promotional materials, such as _Developer_'s websites, during the term of this agreement.
 
-### No Other Licenses<a id="No_Other_Licenses"></a>
+### <a id="No_Other_Licenses"></a>No Other Licenses
 
 Apart from the licenses in [Intellectual Property](#Intellectual_Property), this agreement does not license or assign any _Intellectual Property Right_.
 
-## Liability<a id="Liability"></a>
+## <a id="Liability"></a>Liability
 
-### Agreed Legal Remedies<a id="Agreed_Legal_Remedies"></a>
+### <a id="Agreed_Legal_Remedies"></a>Agreed Legal Remedies
 
 1.  Each side's only legal remedy for _Legal Claims_ covered by _Indemnification_ will be _Indemnification_.
 
 2.  _Customer_'s only legal remedy for changes to software functionality in the _Latest Version of the Software_ will be refunds under [Refund Prepaid Fees for Removed Functionality](#Refund_Prepaid_Fees_for_Removed_Functionality).
 
-### Excuses<a id="Excuses"></a>
+### <a id="Excuses"></a>Excuses
 
 Neither side will be liable for any failure or delay in meeting any obligation under this agreement caused by:
 
@@ -192,21 +192,21 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 6.  government actions taken in response to any of these causes
 
-### Only Express Warranties<a id="Only_Express_Warranties"></a>
+### <a id="Only_Express_Warranties"></a>Only Express Warranties
 
 With the exception of its obligations in [Vendor's Obligations](#Vendor's_Obligations), _Developer_ provides the _Software_ as is, without any warranty. _Developer_ disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.
 
-### Limited Damages<a id="Limited_Damages"></a>
+### <a id="Limited_Damages"></a>Limited Damages
 
-#### Damages Limit<a id="Damages_Limit"></a>
+#### <a id="Damages_Limit"></a>Damages Limit
 
 Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), neither side's total liability for breach of this agreement will exceed the amount _Customer_ paid _Developer_ under this agreement during the twelve months before the first claim is filed. This limit applies even if the side liable is advised that the other may suffer damages, and even if _Developer_ paid nothing at all.
 
-#### Damages Exclusion<a id="Damages_Exclusion"></a>
+#### <a id="Damages_Exclusion"></a>Damages Exclusion
 
 Neither side will be liable for breach-of-contract damages they could not have reasonably foreseen when entering this agreement.
 
-#### Damages Limit Exceptions<a id="Damages_Limit_Exceptions"></a>
+#### <a id="Damages_Limit_Exceptions"></a>Damages Limit Exceptions
 
 [Limited Damages](#Limited_Damages) does not limit damages for breach of:
 
@@ -222,13 +222,13 @@ Neither side will be liable for breach-of-contract damages they could not have r
 
 6.  [Indemnify Vendor](#Indemnify_Vendor)
 
-## Term and Renewal<a id="Term_and_Renewal"></a>
+## <a id="Term_and_Renewal"></a>Term and Renewal
 
 This agreement will continue for the initial term specified on the _Order Form_. If the _Order Form_ specifies automatic renewal, then this agreement will renew automatically for additional periods, each as long as the initial term.
 
-## Changes<a id="Changes"></a>
+## <a id="Changes"></a>Changes
 
-### Changes Customer May Make<a id="Changes_Customer_May_Make"></a>
+### <a id="Changes_Customer_May_Make"></a>Changes Customer May Make
 
 Subject to [Change Process](#Change_Process):
 
@@ -236,7 +236,7 @@ Subject to [Change Process](#Change_Process):
 
 2.  If the _Order Form_ specifies flexible pricing for increased _Use Limits_, _Customer_ may increase its _Use Limits_ within that pricing at any time. _Customer_ changes to _Use Limits_ take effect as soon as _Customer_ pays the additional fees.
 
-### Changes Vendor May Make<a id="Changes_Vendor_May_Make"></a>
+### <a id="Changes_Vendor_May_Make"></a>Changes Vendor May Make
 
 Subject to [Change Process](#Change_Process):
 
@@ -254,51 +254,51 @@ Subject to [Change Process](#Change_Process):
 
     4.  _Developer_ may refund any _Prepaid Fees_ and end this agreement immediately.
 
-## Process<a id="Process"></a>
+## <a id="Process"></a>Process
 
-### Indemnification Process<a id="Indemnification_Process"></a>
+### <a id="Indemnification_Process"></a>Indemnification Process
 
 Both sides agree that to receive _Indemnification_ under this agreement, they must give _Notice_ of any covered _Legal Claims_ quickly, allow the other side to control investigation, defense, and settlement, and cooperate with those efforts. Both sides agree that if they fail to give _Notice_ of any covered _Legal Claims_ quickly, _Indemnification_ will not cover amounts that could have been defended against or mitigated if _Notice_ had been given quickly. Both sides agree that if they take control of the defense and settlement of any _Legal Claims_ covered by _Indemnification_, they will not agree to any settlements that admit fault or impose obligations on the other side without their _Permission_.
 
-### Notice Process<a id="Notice_Process"></a>
+### <a id="Notice_Process"></a>Notice Process
 
 Both sides agree that to give _Notice_ under this agreement, the side giving _Notice_ must send by e-mail to the address the recipient given with its signature, or to a different address given later for _Notice_ going forward. If either side finds that e-mail can't be delivered to the e-mail address given, it may give _Notice_ by registered mail to the address on file for the recipient with the state under whose laws it is organized.
 
-### Change Process<a id="Change_Process"></a>
+### <a id="Change_Process"></a>Change Process
 
 _Customer_ and _Developer_ agree to make changes allowed under this agreement by _Notice_.
 
-## General Contract Terms<a id="General_Contract_Terms"></a>
+## <a id="General_Contract_Terms"></a>General Contract Terms
 
-### Governing Law<a id="Governing_Law"></a>
+### <a id="Governing_Law"></a>Governing Law
 
 The law of the state of _Developer's Address_ will govern this agreement
 
-### No CISG<a id="No_CISG"></a>
+### <a id="No_CISG"></a>No CISG
 
 The United Nations Convention on Contracts for the International Sale of Goods will not apply to this agreement.
 
-### No UCITA<a id="No_UCITA"></a>
+### <a id="No_UCITA"></a>No UCITA
 
 As far as the law allows, the Uniform Computer Information Transactions Act will not apply to this agreement.
 
-### Government Procurement<a id="Government_Procurement"></a>
+### <a id="Government_Procurement"></a>Government Procurement
 
 The _Software_ is commercial computer software, and the _Documentation_ is commercial computer software documentation. Both were developed exclusively at private expense. If _Customer_'s procurement is subject to Federal Acquisition Regulation 12.212 or Defense Federal Acquisition Regulation Supplement 227.7202, _Customer_'s rights will be only those stated in this agreement.
 
-### Whole Agreement<a id="Whole_Agreement"></a>
+### <a id="Whole_Agreement"></a>Whole Agreement
 
 Both sides intend the _Order Form_ and these terms as the final, complete, and only expression of their terms about licensing of the _Software_. However, this agreement does not affect any separate nondisclosure agreement _Developer_ and _Customer_ may have.
 
-### Enforcement<a id="Enforcement"></a>
+### <a id="Enforcement"></a>Enforcement
 
 Only _Developer_ and _Customer_ may enforce this agreement.
 
-### Assignment<a id="Assignment"></a>
+### <a id="Assignment"></a>Assignment
 
 Each side may assign all its rights, licenses, and obligations under this agreement, as a whole, to a new legal entity created to change its jurisdiction or legal form of organization, or to an entity that acquires substantially all of its assets or enough securities to control its management. Otherwise, each side needs _Permission_ to assign any right or license under this agreement. Attempts to assign against the terms of this agreement will have no legal effect.
 
-### Lawsuits<a id="Lawsuits"></a>
+### <a id="Lawsuits"></a>Lawsuits
 
 #### (No Heading)
 
@@ -308,19 +308,19 @@ Each side may assign all its rights, licenses, and obligations under this agreem
 
 **Developer's Local Courts** means the state and federal courts with jurisdiction at _Developer's Address_.
 
-#### Forum<a id="Forum"></a>
+#### <a id="Forum"></a>Forum
 
 Both sides agree to bring any _Lawsuit_ in _Developer's Local Courts_.
 
-#### Exclusive Jurisdiction<a id="Exclusive_Jurisdiction"></a>
+#### <a id="Exclusive_Jurisdiction"></a>Exclusive Jurisdiction
 
 Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. Both sides may enforce judgments from _Developer's Local Courts_ in other jurisdictions.
 
-#### Inconvenient Forum Waiver<a id="Inconvenient_Forum_Waiver"></a>
+#### <a id="Inconvenient_Forum_Waiver"></a>Inconvenient Forum Waiver
 
 Both sides waive any objection to venue for any _Lawsuit_ in _Developer's Local Courts_ and any claim that the other brought any _Lawsuit_ in _Developer's Local Courts_ in an inconvenient forum.
 
-## Definitions<a id="Definitions"></a>
+## <a id="Definitions"></a>Definitions
 
 1.  **Customer Personnel** means _Customer_'s employees and each _Customer_ subsidiary's employees, as well as independent contractors providing services to _Customer_.
 
