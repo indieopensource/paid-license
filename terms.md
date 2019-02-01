@@ -6,17 +6,21 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
 ## <a id="Software"></a>Software
 
-1.  **Software** means the software identified on the _Order Form_.
+### <a id="Which_Software"></a>Which Software
 
-2.  **Covered Versions** depend on the _Order Form_:
+**Software** means the software identified on the _Order Form_.
 
-    1.  If the _Order Form_ specifies a particular version, _Covered Versions_ include only that version.
+### <a id="Which_Versions"></a>Which Versions
 
-    2.  If the _Order Form_ specifies a version range, such as "1.y.z", then _Covered Versions_ include the latest _Generally Available_ version in that range on the date of this agreement, as well as any new versions within that range that _Developer_ makes _Generally Available_ during the term of this agreement.
+**Covered Versions** depend on the _Order Form_:
 
-    3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.
+1.  If the _Order Form_ specifies a particular version, _Covered Versions_ include only that version.
 
-    4.  A version of the _Software_ is **Generally Available** if _Developer_ offers to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
+2.  If the _Order Form_ specifies a version range, such as "1.y.z", then _Covered Versions_ include the latest _Generally Available_ version in that range on the date of this agreement, as well as any new versions within that range that _Developer_ makes _Generally Available_ during the term of this agreement.
+
+3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.
+
+4.  A version of the _Software_ is **Generally Available** if _Developer_ offers to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
 
 ## <a id="Vendor's_Obligations"></a>Vendor's Obligations
 
@@ -156,7 +160,7 @@ _Developer_ grants _Customer_ and each of the _Users_ a _Standard License_, for 
 
 _Developer_ grants _Customer_ and _Customer Personnel_ a _Standard License_, for any copyrights in the _Documentation_ that _Developer_ can license, to read, back up, and copy the _Documentation_.
 
-### (No Heading)
+### <a id="Standard_License"></a>Standard License
 
 **Standard License** means a nonexclusive license for the term of this agreement that is conditional on payment of all fees as required by this agreement and limited by the _Use Limits_.
 
@@ -300,11 +304,11 @@ Each side may assign all its rights, licenses, and obligations under this agreem
 
 ### <a id="Lawsuits"></a>Lawsuits
 
-#### (No Heading)
+#### <a id="Lawsuit"></a>Lawsuit
 
 **Lawsuit** means a lawsuit brought by one side against the other, related to this agreement or the _Software_.
 
-#### (No Heading)
+#### <a id="Courts"></a>Courts
 
 **Developer's Local Courts** means the state and federal courts with jurisdiction at _Developer's Address_.
 

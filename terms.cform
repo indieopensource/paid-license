@@ -2,9 +2,9 @@
 
     \Software\
 
-        \\  ""Software"" means the software identified on the <Order Form>.
+        \Which Software\  ""Software"" means the software identified on the <Order Form>.
 
-        \\  ""Covered Versions"" depend on the <Order Form>:
+        \Which Versions\  ""Covered Versions"" depend on the <Order Form>:
 
             \\  If the <Order Form> specifies a particular version, <Covered Versions> include only that version.
 
@@ -106,7 +106,7 @@
 
         \Documentation Copyright License\  <Developer> grants <Customer> and <Customer Personnel> a <Standard License>, for any copyrights in the <Documentation> that <Developer> can license, to read, back up, and copy the <Documentation>.
 
-        \\  ""Standard License"" means a nonexclusive license for the term of this agreement that is conditional on payment of all fees as required by this agreement and limited by the <Use Limits>.
+        \Standard License\  ""Standard License"" means a nonexclusive license for the term of this agreement that is conditional on payment of all fees as required by this agreement and limited by the <Use Limits>.
 
         \Publicity License\  If the <Order Form> specifies publicity rights, then <Developer> may identify <Customer> as a customer to current and potential customers, and may list <Customer>'s business name and logo in promotional materials, such as <Developer>'s websites, during the term of this agreement.
 
@@ -208,9 +208,9 @@
 
         \Lawsuits\
 
-            \\  ""Lawsuit"" means a lawsuit brought by one side against the other, related to this agreement or the <Software>.
+            \Lawsuit\  ""Lawsuit"" means a lawsuit brought by one side against the other, related to this agreement or the <Software>.
 
-            \\  ""Developer's Local Courts"" means the state and federal courts with jurisdiction at <Developer's Address>.
+            \Courts\  ""Developer's Local Courts"" means the state and federal courts with jurisdiction at <Developer's Address>.
 
             \Forum\  Both sides agree to bring any <Lawsuit> in <Developer's Local Courts>.
 
