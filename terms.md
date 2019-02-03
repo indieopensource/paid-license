@@ -178,13 +178,11 @@ Apart from the licenses in [Intellectual Property](#Intellectual_Property), this
 
 ### <a id="Dual_Licensing"></a>Dual Licensing
 
-If _Developer_ makes all or any part of the _Software_ available under any _Public License_:
+If _Developer_ makes any part of the _Software_ available under a _Public License_:
 
-1.  The licenses given under this agreement are in addition to any _Public License_ for the _Software_.
+1.  During the term of this agreement, _Customer_ must abide by this agreement, not the terms of the _Public License_.
 
-2.  _Customer_ need not comply with the terms of any _Public License_ for actions covered by a license under this agreement.
-
-3.  After this agreement ends, _Customer_ must again comply with the terms of any _Public License_.
+2.  After this agreement ends, _Customer_ must abide by the terms of the _Public License_ again.
 
 ## <a id="Liability"></a>Liability
 
