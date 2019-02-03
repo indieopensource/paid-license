@@ -14,7 +14,7 @@
 
             \\  A version of the <Software> is ""Generally Available"" if <Developer> offers to the public for use in production systems. Versions that <Developer> designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not <Generally Available>.
 
-        \Use Limits\  ""Use Limits"" means any limits on use of the <Software> specified on the <Order Form>.
+        \Use Limits\  ""Use Limits"" means any limits on use of the <Software> specified on the <Order Form>, such as such as maximum numbers of <Users>, <Running Instances>, or <Concurrent Users>.
 
     \Vendor's Obligations\
 
@@ -222,6 +222,8 @@
 
     \Definitions\
 
+        \\  ""Concurrent Users"" means the number of <Users> logged into or using the <Software> at any given time.
+
         \\  ""Customer Personnel"" means <Customer>'s employees and each <Customer> subsidiary's employees, as well as independent contractors providing services to <Customer>.
 
         \\  ""Documentation"" means documentation for the <Software>.
@@ -249,6 +251,8 @@
         \\  ""Permitted Use of the Software"" means <Customer>'s use of the <Software>, other than <Use of the Software at Customer's Own Risk>.
 
         \\  ""Prepaid Fees"" means fees <Customer> prepaid under this agreement for time remaining in the term of this agreement.
+
+        \\  ""Running Instances"" means the number of copies of the <Software> <Customer> runs at any given time.
 
         \\  ""Software Dependencies"" means software from others that the <Software> depends on, installs, configures, or links, directly or indirectly.
 

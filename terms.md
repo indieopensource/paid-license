@@ -24,7 +24,7 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
 ### <a id="Use_Limits"></a>Use Limits
 
-**Use Limits** means any limits on use of the _Software_ specified on the _Order Form_.
+**Use Limits** means any limits on use of the _Software_ specified on the _Order Form_, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
 
 ## <a id="Vendor's_Obligations"></a>Vendor's Obligations
 
@@ -330,37 +330,41 @@ Both sides waive any objection to venue for any _Lawsuit_ in _Developer's Local 
 
 ## <a id="Definitions"></a>Definitions
 
-1.  **Customer Personnel** means _Customer_'s employees and each _Customer_ subsidiary's employees, as well as independent contractors providing services to _Customer_.
+1.  **Concurrent Users** means the number of _Users_ logged into or using the _Software_ at any given time.
 
-2.  **Documentation** means documentation for the _Software_.
+2.  **Customer Personnel** means _Customer_'s employees and each _Customer_ subsidiary's employees, as well as independent contractors providing services to _Customer_.
 
-3.  **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
+3.  **Documentation** means documentation for the _Software_.
 
-4.  **Infringement Claim** means a court order against _Customer_'s use of the _Software_ based on a claim that it infringes any _Intellectual Property Right_ or breaks any law, or a threat of that kind of claim that _Developer_ believes credible.
+4.  **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
 
-5.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+5.  **Infringement Claim** means a court order against _Customer_'s use of the _Software_ based on a claim that it infringes any _Intellectual Property Right_ or breaks any law, or a threat of that kind of claim that _Developer_ believes credible.
 
-6.  **Latest Version of the Software** means the latest of the _Covered Versions_ of the _Software_.
+6.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-7.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
+7.  **Latest Version of the Software** means the latest of the _Covered Versions_ of the _Software_.
 
-8.  **License Keys** means license keys or other secrets used to validate rights to use the _Software_.
+8.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
 
-9.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
+9.  **License Keys** means license keys or other secrets used to validate rights to use the _Software_.
 
-10.  **Permission** means prior _Notice_ of consent.
+10.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
 
-11.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of _Publicly Licensed_ _Software_.
+11.  **Permission** means prior _Notice_ of consent.
 
-12.  **Publicly Licensed** means published with a notice of a license to the public, or to everyone who receives a copy.
+12.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of _Publicly Licensed_ _Software_.
 
-13.  **Permitted Use of the Software** means _Customer_'s use of the _Software_, other than _Use of the Software at Customer's Own Risk_.
+13.  **Publicly Licensed** means published with a notice of a license to the public, or to everyone who receives a copy.
 
-14.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
+14.  **Permitted Use of the Software** means _Customer_'s use of the _Software_, other than _Use of the Software at Customer's Own Risk_.
 
-15.  **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
+15.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
 
-16.  **Use of the Software at Customer's Own Risk** means:
+16.  **Running Instances** means the number of copies of the _Software_ _Customer_ runs at any given time.
+
+17.  **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
+
+18.  **Use of the Software at Customer's Own Risk** means:
 
      1.  use of the _Software_ in breach of this agreement
 
@@ -370,6 +374,6 @@ Both sides waive any objection to venue for any _Lawsuit_ in _Developer's Local 
 
      4.  unauthorized use of the _Software_ with _Customer_ _License Keys_
 
-17.  **Users** means _Customer Personnel_ using the _Software_.
+19.  **Users** means _Customer Personnel_ using the _Software_.
 
-18.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
+20.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
