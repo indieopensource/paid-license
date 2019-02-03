@@ -2,7 +2,7 @@
 
 ## <a id="Order_Form"></a>Order Form
 
-These terms, together with the **Order Form** referencing them, make up a software license agreement. The terms **Developer**, **Customer**, and **Use Limits** are defined on the _Order Form_.
+These terms, together with the **Order Form** referencing them, make up a software license agreement. The **Developer** and **Customer** are identified on the _Order Form_.
 
 ## <a id="Software"></a>Software
 
@@ -21,6 +21,10 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.
 
 4.  A version of the _Software_ is **Generally Available** if _Developer_ offers to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
+
+### <a id="Use_Limits"></a>Use Limits
+
+**Use Limits** means any limits on use of the _Software_ specified on the _Order Form_.
 
 ## <a id="Vendor's_Obligations"></a>Vendor's Obligations
 

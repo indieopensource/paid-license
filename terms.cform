@@ -1,4 +1,4 @@
-    \Order Form\  These terms, together with the ""Order Form"" referencing them, make up a software license agreement. The terms ""Developer"", ""Customer"", and ""Use Limits"" are defined on the <Order Form>.
+    \Order Form\  These terms, together with the ""Order Form"" referencing them, make up a software license agreement.  The ""Developer"" and ""Customer"" are identified on the <Order Form>.
 
     \Software\
 
@@ -13,6 +13,8 @@
             \\  If the <Order Form> does not specify a particular version or version range, then <Covered Versions> include the latest <Generally Available> version on the date of this agreement, as well as any new versions that <Developer> makes <Generally Available> during the term of this agreement.
 
             \\  A version of the <Software> is ""Generally Available"" if <Developer> offers to the public for use in production systems. Versions that <Developer> designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not <Generally Available>.
+
+        \Use Limits\  ""Use Limits"" means any limits on use of the <Software> specified on the <Order Form>.
 
     \Vendor's Obligations\
 
