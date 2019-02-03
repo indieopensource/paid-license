@@ -4,7 +4,7 @@
 
 These terms, together with the **Order Form** referencing them, make up a software license agreement. The **Developer** and **Customer** are identified on the _Order Form_.
 
-## <a id="Software"></a>Software
+## <a id="Scope"></a>Scope
 
 ### <a id="Which_Software"></a>Which Software
 
