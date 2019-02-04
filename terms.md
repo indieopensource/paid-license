@@ -94,11 +94,15 @@ _Developer_ agrees to give _Customer_ prompt _Notice_ of any _Infringement Claim
 
 ### <a id="Pay_Fees"></a>Pay Fees
 
-_Customer_ agrees to pay the license fees specified on the _Order Form_. _Customer_ agrees to pay those fees when specified on the _Order Form_, if not specified, on entering into this agreement. _Customer_ agrees to pay using the method specified on the _Order Form_. _Customer_ agrees to pay all tax on fees under this agreement, except tax _Developer_ owes on income.
+1.  _Customer_ agrees to pay the license fees specified on the _Order Form_.
 
-### <a id="Pay_Fees_Owed_After_this_Agreement_Ends"></a>Pay Fees Owed After this Agreement Ends
+2.  _Customer_ agrees to pay those fees when specified on the _Order Form_, if not specified, on entering into this agreement.
 
-[Pay Fees](#Pay_Fees) continues after this agreement ends.
+3.  _Customer_ agrees to pay using the method specified on the _Order Form_.
+
+4.  _Customer_ agrees to pay all tax on fees under this agreement, except tax _Developer_ owes on income.
+
+5.  [Pay Fees](#Pay_Fees) continues after this agreement ends.
 
 ### <a id="Keep_License_Keys_Confidential_and_Secure"></a>Keep License Keys Confidential and Secure
 

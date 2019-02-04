@@ -60,9 +60,17 @@
 
     \Customer's Obligations\
 
-        \Pay Fees\  <Customer> agrees to pay the license fees specified on the <Order Form>. <Customer> agrees to pay those fees when specified on the <Order Form>, if not specified, on entering into this agreement. <Customer> agrees to pay using the method specified on the <Order Form>. <Customer> agrees to pay all tax on fees under this agreement, except tax <Developer> owes on income.
+        \Pay Fees\
 
-        \Pay Fees Owed After this Agreement Ends\  {Pay Fees} continues after this agreement ends.
+            \\  <Customer> agrees to pay the license fees specified on the <Order Form>.
+
+            \\  <Customer> agrees to pay those fees when specified on the <Order Form>, if not specified, on entering into this agreement.
+
+            \\  <Customer> agrees to pay using the method specified on the <Order Form>.
+
+            \\  <Customer> agrees to pay all tax on fees under this agreement, except tax <Developer> owes on income.
+
+            \\  {Pay Fees} continues after this agreement ends.
 
         \Keep License Keys Confidential and Secure\  <Customer> agrees to share <License Keys> only as needed to use the <Software> under this agreement, and to secure <License Keys> at least as well as <Customer>'s own confidential information.
 
