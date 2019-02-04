@@ -226,11 +226,9 @@ Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), neither side's
 
 3.  [Enforce Rules About Use](#Enforce_Rules_About_Use)
 
-4.  [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
+4.  [Indemnify Customer](#Indemnify_Customer)
 
-5.  [Indemnify Customer](#Indemnify_Customer)
-
-6.  [Indemnify Developer](#Indemnify_Developer)
+5.  [Indemnify Developer](#Indemnify_Developer)
 
 ## <a id="Term_and_Renewal"></a>Term and Renewal
 
