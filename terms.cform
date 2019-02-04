@@ -12,7 +12,7 @@
 
             \\  If the <Order Form> does not specify a particular version or version range, then <Covered Versions> include the latest <Generally Available> version on the date of this agreement, as well as any new versions that <Developer> makes <Generally Available> during the term of this agreement.
 
-            \\  A version of the <Software> is ""Generally Available"" if <Developer> offers to the public for use in production systems. Versions that <Developer> designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not <Generally Available>.
+            \\  A version of the <Software> is ""Generally Available"" if <Developer> offers it to the public for use in production systems. Versions that <Developer> designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not <Generally Available>.
 
         \\  ""Use Limits"" means any limits on use of the <Software> specified on the <Order Form>, such as such as maximum numbers of <Users>, <Running Instances>, or <Concurrent Users>.
 
