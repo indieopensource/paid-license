@@ -162,7 +162,7 @@ _Developer_ grants _Customer_ and each of the _Users_ a _Standard License_, for 
 
 _Developer_ grants _Customer_ and _Customer Personnel_ a _Standard License_, for any copyrights in the _Documentation_ that _Developer_ can license, to read, back up, and copy the _Documentation_.
 
-### <a id="Standard_License"></a>Standard License
+### <a id="Standard_License_Terms"></a>Standard License Terms
 
 **Standard License** means a nonexclusive license for the term of this agreement that is conditional on payment of all fees as required by this agreement and limited by the _Use Limits_.
 
