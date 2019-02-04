@@ -208,7 +208,7 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 ### <a id="Only_Express_Warranties"></a>Only Express Warranties
 
-With the exception of its obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty. _Developer_ disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.
+With the exception of its obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty.
 
 ### <a id="Limited_Damages"></a>Limited Damages
 
