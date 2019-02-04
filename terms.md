@@ -220,13 +220,13 @@ Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), neither side's
 
 [Limited Damages](#Limited_Damages) does not limit damages for breach of:
 
-1.  [Pay Fees](#Pay_Fees)
+1.  [Enforce Rules About Use](#Enforce_Rules_About_Use)
 
-2.  [Follow Rules About Use](#Follow_Rules_About_Use)
+2.  [Indemnify Customer](#Indemnify_Customer)
 
-3.  [Enforce Rules About Use](#Enforce_Rules_About_Use)
+3.  [Pay Fees](#Pay_Fees)
 
-4.  [Indemnify Customer](#Indemnify_Customer)
+4.  [Follow Rules About Use](#Follow_Rules_About_Use)
 
 5.  [Indemnify Developer](#Indemnify_Developer)
 
