@@ -20,7 +20,7 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
 3.  **Use Limits** means any limits on use of the _Software_ specified on the _Order Form_, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
 
-## <a id="Vendor's_Obligations"></a>Vendor's Obligations
+## <a id="Developer's_Obligations"></a>Developer's Obligations
 
 ### <a id="Provide_a_Download"></a>Provide a Download
 
@@ -134,7 +134,7 @@ _Customer_ agrees not to:
 
 _Customer_ agrees to make sure _Customer Personnel_ and other personnel abide by [Keep License Keys Confidential and Secure](#Keep_License_Keys_Confidential_and_Secure) and [Follow Rules About Use](#Follow_Rules_About_Use).
 
-### <a id="Indemnify_Vendor"></a>Indemnify Vendor
+### <a id="Indemnify_Developer"></a>Indemnify Developer
 
 Subject to [Indemnification Process](#Indemnification_Process), _Customer_ agrees to give _Developer_ _Indemnification_ from _Legal Claims_ by others based on:
 
@@ -204,7 +204,7 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 ### <a id="Only_Express_Warranties"></a>Only Express Warranties
 
-With the exception of its obligations in [Vendor's Obligations](#Vendor's_Obligations), _Developer_ provides the _Software_ as is, without any warranty. _Developer_ disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.
+With the exception of its obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty. _Developer_ disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.
 
 ### <a id="Limited_Damages"></a>Limited Damages
 
@@ -230,7 +230,7 @@ Neither side will be liable for breach-of-contract damages they could not have r
 
 5.  [Indemnify Customer](#Indemnify_Customer)
 
-6.  [Indemnify Vendor](#Indemnify_Vendor)
+6.  [Indemnify Developer](#Indemnify_Developer)
 
 ## <a id="Term_and_Renewal"></a>Term and Renewal
 
@@ -246,7 +246,7 @@ Subject to [Change Process](#Change_Process):
 
 2.  If the _Order Form_ specifies flexible pricing for increased _Use Limits_, _Customer_ may increase its _Use Limits_ within that pricing at any time. _Customer_ changes to _Use Limits_ take effect as soon as _Customer_ pays the additional fees.
 
-### <a id="Changes_Vendor_May_Make"></a>Changes Vendor May Make
+### <a id="Changes_Developer_May_Make"></a>Changes Developer May Make
 
 Subject to [Change Process](#Change_Process):
 

@@ -16,7 +16,7 @@
 
         \\  ""Use Limits"" means any limits on use of the <Software> specified on the <Order Form>, such as such as maximum numbers of <Users>, <Running Instances>, or <Concurrent Users>.
 
-    \Vendor's Obligations\
+    \Developer's Obligations\
 
         \Provide a Download\  <Developer> agrees to make the <Latest Version of the Software> available for <Customer Personnel> to download, free of charge, via the Internet.
 
@@ -92,7 +92,7 @@
 
         \Enforce Rules About Use\  <Customer> agrees to make sure <Customer Personnel> and other personnel abide by {Keep License Keys Confidential and Secure} and {Follow Rules About Use}.
 
-        \Indemnify Vendor\  Subject to {Indemnification Process}, <Customer> agrees to give <Developer> <Indemnification> from <Legal Claims> by others based on:
+        \Indemnify Developer\  Subject to {Indemnification Process}, <Customer> agrees to give <Developer> <Indemnification> from <Legal Claims> by others based on:
 
             \\  <Customer> breach of this agreement
 
@@ -142,7 +142,7 @@
 
             \\  government actions taken in response to any of these causes
 
-        \Only Express Warranties!!  With the exception of its obligations in {Vendor's Obligations}, <Developer> provides the <Software> as is, without any warranty. <Developer> disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.
+        \Only Express Warranties!!  With the exception of its obligations in {Developer's Obligations}, <Developer> provides the <Software> as is, without any warranty. <Developer> disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.
 
         \Limited Damages!!
 
@@ -162,7 +162,7 @@
 
                 \\  {Indemnify Customer}
 
-                \\  {Indemnify Vendor}
+                \\  {Indemnify Developer}
 
     \Term and Renewal\  This agreement will continue for the initial term specified on the <Order Form>. If the <Order Form> specifies automatic renewal, then this agreement will renew automatically for additional periods, each as long as the initial term.
 
@@ -174,7 +174,7 @@
 
             \\  If the <Order Form> specifies flexible pricing for increased <Use Limits>, <Customer> may increase its <Use Limits> within that pricing at any time. <Customer> changes to <Use Limits> take effect as soon as <Customer> pays the additional fees.
 
-        \Changes Vendor May Make\  Subject to {Change Process}:
+        \Changes Developer May Make\  Subject to {Change Process}:
 
             \\  If <Customer> breaches this agreement, <Developer> gives <Notice> of the breach, and <Customer> does not cure the breach within 30 calendar days, <Developer> may end this agreement immediately.
 
