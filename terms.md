@@ -1,4 +1,4 @@
-# Software License Terms
+# Paid Software License Terms
 
 ## <a id="Order_Form"></a>Order Form
 

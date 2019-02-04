@@ -13,8 +13,8 @@
   "scripts": {
     "test": "commonform lint terms.cform",
     "build": "run-p build:*",
-    "build:markdown": "commonform render -f markdown --title 'Software License Terms' terms.cform > terms.md",
-    "build:html": "commonform render -f html5 --title 'Software License Terms' --ordered-lists terms.cform > terms.html",
-    "build:docx": "commonform render -f docx --title 'Software License Terms' --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx"
+    "build:markdown": "commonform render -f markdown --title 'Paid Software License Terms' terms.cform > terms.md",
+    "build:html": "commonform render -f html5 --title 'Paid Software License Terms' --ordered-lists terms.cform > terms.html",
+    "build:docx": "commonform render -f docx --title 'Paid Software License Terms' --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx"
   }
 }
