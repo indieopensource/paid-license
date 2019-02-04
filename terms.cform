@@ -2,9 +2,9 @@
 
     \Scope\
 
-        \Which Software\  ""Software"" means the software identified on the <Order Form>.
+        \\  ""Software"" means the software identified on the <Order Form>.
 
-        \Which Versions\  ""Covered Versions"" depend on the <Order Form>:
+        \\  ""Covered Versions"" depend on the <Order Form>:
 
             \\  If the <Order Form> specifies a particular version, <Covered Versions> include only that version.
 
@@ -14,7 +14,7 @@
 
             \\  A version of the <Software> is ""Generally Available"" if <Developer> offers to the public for use in production systems. Versions that <Developer> designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not <Generally Available>.
 
-        \Use Limits\  ""Use Limits"" means any limits on use of the <Software> specified on the <Order Form>, such as such as maximum numbers of <Users>, <Running Instances>, or <Concurrent Users>.
+        \\  ""Use Limits"" means any limits on use of the <Software> specified on the <Order Form>, such as such as maximum numbers of <Users>, <Running Instances>, or <Concurrent Users>.
 
     \Vendor's Obligations\
 

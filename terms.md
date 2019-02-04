@@ -6,25 +6,19 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
 ## <a id="Scope"></a>Scope
 
-### <a id="Which_Software"></a>Which Software
+1.  **Software** means the software identified on the _Order Form_.
 
-**Software** means the software identified on the _Order Form_.
+2.  **Covered Versions** depend on the _Order Form_:
 
-### <a id="Which_Versions"></a>Which Versions
+    1.  If the _Order Form_ specifies a particular version, _Covered Versions_ include only that version.
 
-**Covered Versions** depend on the _Order Form_:
+    2.  If the _Order Form_ specifies a version range, such as "1.y.z", then _Covered Versions_ include the latest _Generally Available_ version in that range on the date of this agreement, as well as any new versions within that range that _Developer_ makes _Generally Available_ during the term of this agreement.
 
-1.  If the _Order Form_ specifies a particular version, _Covered Versions_ include only that version.
+    3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.
 
-2.  If the _Order Form_ specifies a version range, such as "1.y.z", then _Covered Versions_ include the latest _Generally Available_ version in that range on the date of this agreement, as well as any new versions within that range that _Developer_ makes _Generally Available_ during the term of this agreement.
+    4.  A version of the _Software_ is **Generally Available** if _Developer_ offers to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
 
-3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.
-
-4.  A version of the _Software_ is **Generally Available** if _Developer_ offers to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
-
-### <a id="Use_Limits"></a>Use Limits
-
-**Use Limits** means any limits on use of the _Software_ specified on the _Order Form_, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
+3.  **Use Limits** means any limits on use of the _Software_ specified on the _Order Form_, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
 
 ## <a id="Vendor's_Obligations"></a>Vendor's Obligations
 
