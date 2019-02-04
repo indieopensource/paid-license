@@ -242,7 +242,7 @@ Subject to [Change Process](#Change_Process):
 
 1.  _Customer_ may end this agreement at any time.
 
-2.  If the _Order Form_ specifies flexible pricing for increased _Use Limits_, _Customer_ may increase its _Use Limits_ within that pricing at any time. _Customer_ changes to _Use Limits_ take effect as soon as _Customer_ pays the additional fees.
+2.  If the _Order Form_ specifies flexible pricing for increased _Use Limits_, _Customer_ may increase its _Use Limits_ within that pricing at any time. Changes to _Use Limits_ take effect as soon as _Customer_ pays the additional fees.
 
 ### <a id="Changes_Developer_May_Make"></a>Changes Developer May Make
 
