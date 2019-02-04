@@ -178,9 +178,9 @@ Apart from the licenses in [Intellectual Property](#Intellectual_Property), this
 
 If _Developer_ publishes any part of the _Software_ under a _Public License_:
 
-1.  During the term of this agreement, _Customer_ must abide by this agreement, not the terms of the _Public License_.
+1.  During the term of this agreement, _Customer_ must abide by this agreement, not the _Public License_.
 
-2.  After this agreement ends, _Customer_ must abide by the terms of the _Public License_ again.
+2.  After this agreement ends, _Customer_ must abide by the _Public License_ again.
 
 ## <a id="Liability"></a>Liability
 
