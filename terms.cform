@@ -114,6 +114,12 @@
 
         \No Other Licenses\  Apart from the licenses in {Intellectual Property}, this agreement does not license or assign any <Intellectual Property Right>.
 
+        \Dual Licensing\  If <Developer> makes any part of the <Software> available under a <Public License>:
+
+            \\  During the term of this agreement, <Customer> must abide by this agreement, not the terms of the <Public License>.
+
+            \\  After this agreement ends, <Customer> must abide by the terms of the <Public License> again.
+
     \Liability\
 
         \Agreed Legal Remedies\
@@ -246,7 +252,9 @@
 
         \\  ""Public Software Repository"" means a website or Internet service that provides free-of-charge downloads of <Publicly Licensed> <Software>.
 
-        \\  ""Publicly Licensed"" means published with a notice of a license to the public, or to everyone who receives a copy.
+        \\  ""Public License"" means a license to the public, or to everyone who receives a copy.
+
+        \\  ""Publicly Licensed"" means published with a notice of a <Public License>.
 
         \\  ""Permitted Use of the Software"" means <Customer>'s use of the <Software>, other than <Use of the Software at Customer's Own Risk>.
 

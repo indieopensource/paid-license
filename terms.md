@@ -176,6 +176,14 @@ If the _Order Form_ specifies publicity rights, then _Developer_ may identify _C
 
 Apart from the licenses in [Intellectual Property](#Intellectual_Property), this agreement does not license or assign any _Intellectual Property Right_.
 
+### <a id="Dual_Licensing"></a>Dual Licensing
+
+If _Developer_ makes any part of the _Software_ available under a _Public License_:
+
+1.  During the term of this agreement, _Customer_ must abide by this agreement, not the terms of the _Public License_.
+
+2.  After this agreement ends, _Customer_ must abide by the terms of the _Public License_ again.
+
 ## <a id="Liability"></a>Liability
 
 ### <a id="Agreed_Legal_Remedies"></a>Agreed Legal Remedies
@@ -354,17 +362,19 @@ Both sides waive any objection to venue for any _Lawsuit_ in _Developer's Local 
 
 12.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of _Publicly Licensed_ _Software_.
 
-13.  **Publicly Licensed** means published with a notice of a license to the public, or to everyone who receives a copy.
+13.  **Public License** means a license to the public, or to everyone who receives a copy.
 
-14.  **Permitted Use of the Software** means _Customer_'s use of the _Software_, other than _Use of the Software at Customer's Own Risk_.
+14.  **Publicly Licensed** means published with a notice of a _Public License_.
 
-15.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
+15.  **Permitted Use of the Software** means _Customer_'s use of the _Software_, other than _Use of the Software at Customer's Own Risk_.
 
-16.  **Running Instances** means the number of copies of the _Software_ _Customer_ runs at any given time.
+16.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
 
-17.  **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
+17.  **Running Instances** means the number of copies of the _Software_ _Customer_ runs at any given time.
 
-18.  **Use of the Software at Customer's Own Risk** means:
+18.  **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
+
+19.  **Use of the Software at Customer's Own Risk** means:
 
      1.  use of the _Software_ in breach of this agreement
 
@@ -374,6 +384,6 @@ Both sides waive any objection to venue for any _Lawsuit_ in _Developer's Local 
 
      4.  unauthorized use of the _Software_ with _Customer_ _License Keys_
 
-19.  **Users** means _Customer Personnel_ using the _Software_.
+20.  **Users** means _Customer Personnel_ using the _Software_.
 
-20.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
+21.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
