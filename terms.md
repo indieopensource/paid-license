@@ -176,11 +176,11 @@ Apart from the licenses in [Intellectual Property](#Intellectual_Property), this
 
 ### <a id="Dual_Licensing"></a>Dual Licensing
 
-If _Developer_ publishes any part of the _Software_ under a _Public License_:
+If any part of the _Software_ is or becomes _Publicly Licensed_ during the term of this agreement:
 
 1.  During the term of this agreement, _Customer_ must abide by this agreement, not the _Public License_.
 
-2.  After this agreement ends, _Customer_ must abide by the _Public License_ again.
+2.  After this agreement ends, if the software remains _Publicly Licensed_, then _Customer_ must abide by the _Public License_ again.
 
 ## <a id="Liability"></a>Liability
 
