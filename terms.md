@@ -64,7 +64,7 @@ So long as _Customer_ has met its obligations under [Pay Fees](#Pay_Fees):
 
 Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Customer_ _Indemnification_ for _Legal Claims_ by others alleging that _Permitted Use of the Software_ does any of these:
 
-1.  infringes any copyright, trademark, or trade secret right
+1.  infringes any copyright, trademark, or trade secret
 
 2.  infringes any patent covered by _Developer_'s patent guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
 
