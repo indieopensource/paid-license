@@ -248,7 +248,7 @@ Subject to [Change Process](#Change_Process):
 
 Subject to [Change Process](#Change_Process):
 
-1.  If _Customer_ breaches this agreement, _Developer_ gives _Notice_ of the breach, and _Customer_ does not cure the breach within 30 calendar days, _Developer_ may end this agreement immediately.
+1.  If _Customer_ breaches this agreement, _Developer_ gives _Notice_ of the breach, and _Customer_ does not cure the breach within 30 calendar days of receiving _Notice_, _Developer_ may end this agreement immediately.
 
 2.  _Developer_ may end this agreement when it would otherwise automatically renew by giving _Notice_ at least 30 calendar days ahead of time.
 
