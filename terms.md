@@ -28,7 +28,7 @@ _Developer_ agrees to make the _Latest Version of the Software_ available for _C
 
 ### <a id="Make_Sure_Customer_Can_Download_Software_Dependencies"></a>Make Sure Customer Can Download Software Dependencies
 
-_Developer_ agrees to make sure any _Software Dependencies_ are _Publicly Licensed_ and generally available for _Customer_ to download, free of charge, from a _Public Software Repository_. _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
+_Developer_ agrees to make sure any _Software Dependencies_, other than _Software Dependencies_ identified as exceptions on the _Order Form_, are _Publicly Licensed_ and generally available for _Customer_ to download, free of charge, from a _Public Software Repository_. _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
 
 ### <a id="Provide_Any_License_Keys"></a>Provide Any License Keys
 
