@@ -19,7 +19,7 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
     3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.
 
-    4.  A version of the _Software_ is **Generally Available** if _Developer_ offers it to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
+    4.  A version of the _Software_ is **Generally Available** if _Developer_ offers it to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Testing", and "Preview" are not _Generally Available_.
 
 3.  **Use Limits** means any limits on use of the _Software_ specified on the _Order Form_, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
 
