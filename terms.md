@@ -27,7 +27,7 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
 ## Provide a Download
 
-_Developer_ agrees to make the _Latest Version of the Software_ available for _Customer Personnel_ to download, free of charge, via the Internet, and to give Notice of its location on written request.
+_Developer_ agrees to make the _Latest Version of the Software_ available for _Customer Personnel_ to download, free of charge, via the Internet, and to give _Notice_ of its location on written request.
 
 ## Make Sure Customer Can Download Software Dependencies
 
