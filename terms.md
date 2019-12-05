@@ -235,7 +235,7 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 # Term and Renewal
 
-This agreement will continue for the initial term the _Order Form_ specifies. If the _Order Form_ specifies automatic renewal, then this agreement will renew automatically for additional periods, each as long as the initial term.
+This agreement will continue for the initial period the _Order Form_ specifies. If the _Order Form_ specifies automatic renewal, then this agreement will renew automatically for more periods, each as long as the initial period.
 
 # Changes
 
