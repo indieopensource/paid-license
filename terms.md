@@ -211,13 +211,13 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 ## Only Express Warranties
 
-With the exception of its obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty.
+!!! With the exception of its obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty.
 
 ## Limited Damages
 
 ### Damages Limit
 
-Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), neither side's total liability for breach of this agreement will not exceed the amount _Customer_ paid _Developer_ under this agreement during the twelve months before the first claim is filed. This limit applies even if the side liable is advised that the other may suffer damages, and even if _Customer_ paid nothing at all.
+!!! Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), neither side's total liability for breach of this agreement will not exceed the amount _Customer_ paid _Developer_ under this agreement during the twelve months before the first claim is filed. This limit applies even if the side liable is advised that the other may suffer damages, and even if _Customer_ paid nothing at all.
 
 ### Damages Limit Exceptions
 
