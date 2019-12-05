@@ -1,6 +1,6 @@
 ---
 title: IndieOpenSource.com Paid Software License Terms
-edition: Development Draft
+edition: Version 1.0.0
 ---
 
 # Order Form
