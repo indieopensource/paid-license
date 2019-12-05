@@ -299,7 +299,7 @@ The _Software_ is commercial computer software, and the _Documentation_ is comme
 
 ## Whole Agreement
 
-Both sides intend the _Order Form_ and these terms as the final, complete, and only expression of their terms about licensing of the _Software_. However, this agreement does not affect any separate nondisclosure agreement _Developer_ and _Customer_ may have.
+Both sides intend the _Order Form_ and these terms as the final, complete, and only expression of their terms about licensing of the _Software_. But this agreement does not affect any separate nondisclosure agreement _Developer_ and _Customer_ may have.
 
 ## Enforcement
 
