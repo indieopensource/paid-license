@@ -211,7 +211,7 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 ## Only Express Warranties
 
-!!! With the exception of its obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty.
+!!! Except for _Developer_'s obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty.
 
 ## Limited Damages
 
