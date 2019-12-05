@@ -1,5 +1,5 @@
 ---
-title: Paid Software License Terms
+title: IndieOpenSource.com Paid Software License Terms
 edition: Development Draft
 ---
 
