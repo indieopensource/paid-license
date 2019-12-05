@@ -99,7 +99,7 @@ _Developer_ agrees to give _Customer_ prompt _Notice_ of any _Infringement Claim
 
 1.  _Customer_ agrees to pay the license fees specified on the _Order Form_.
 
-2.  _Customer_ agrees to pay those fees when specified on the _Order Form_, if not specified, on entering into this agreement.
+2.  _Customer_ agrees to pay those fees when specified on the _Order Form_, or if not specified, on entering into this agreement.
 
 3.  _Customer_ agrees to pay using the method specified on the _Order Form_.
 
