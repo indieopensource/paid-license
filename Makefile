@@ -31,13 +31,13 @@ build/%.html: build/%.form.json build/%.title build/%.edition | build $(COMMONMA
 %.pdf: %.docx
 	unoconv $<
 
-build/%.form.json: %.md | build $(CFCM)
+build/%.form.json: %.md | build $(COMMONMARK)
 	$(COMMONMARK) parse --only form < $< > $@
 
-build/%.title: %.md | build $(CFCM) $(JSON)
+build/%.title: %.md | build $(COMMONMARK) $(JSON)
 	$(COMMONMARK) parse < $< | $(JSON) frontMatter.title > $@
 
-build/%.edition: %.md | build $(CFCM) $(JSON)
+build/%.edition: %.md | build $(COMMONMARK) $(JSON)
 	$(COMMONMARK) parse < $< | $(JSON) frontMatter.edition > $@
 
 $(TOOLS):
@@ -51,7 +51,7 @@ build:
 clean:
 	rm -rf build
 
-lint: $(FORMS) | $(LINT) $(JSON)
+lint: $(FORMS) | $(COMMONMARK) $(LINT) $(JSON)
 	@for form in $(FORMS); do \
 		echo ; \
 		echo $$form; \
