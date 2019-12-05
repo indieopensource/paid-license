@@ -35,7 +35,7 @@ _Developer_ agrees to make sure any _Software Dependencies_, other than _Softwar
 
 ## Provide Any License Keys
 
-_Developer_ agrees to give _Customer_ _Notice_ of any _License Keys_ required to use the _Latest Version of the Software_ on entering into this agreement. _Developer_ agrees to give _Customer_ _Notice_ of any additional _License Keys_ required to use any new _Latest Version of the Software_ when released.
+_Developer_ agrees to give _Customer_ _Notice_ of any _License Keys_ required to use the _Latest Version of the Software_ on entering into this agreement. _Developer_ agrees to give _Customer_ _Notice_ of any new _License Keys_ required to use any new _Latest Version of the Software_ when released.
 
 ## Publish Documentation
 
