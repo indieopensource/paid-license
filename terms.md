@@ -109,7 +109,7 @@ _Developer_ agrees to give _Customer_ prompt _Notice_ of any _Infringement Claim
 
 ## Keep License Keys Confidential and Secure
 
-_Customer_ agrees to share _License Keys_ only as needed to use the _Software_ under this agreement, and to secure _License Keys_ at least as well as _Customer_'s own confidential information.
+_Customer_ agrees to share _License Keys_ only as needed to make _Permitted Use of the Software_, and to secure _License Keys_ at least as well as _Customer_'s own confidential information.
 
 ## Follow Rules About Use
 
