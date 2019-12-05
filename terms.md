@@ -159,7 +159,7 @@ _Developer_ grants _Customer_ and each of the _Users_ a _Standard License_, for 
 
 ## Software Patent License
 
-_Developer_ grants _Customer_ and each of the _Users_ a _Standard License_, for any patents _Developer_ can license, to make _Permitted Use of the Software_.
+_Developer_ grants _Customer_ and each of the _Users_ a _Standard License_, for any patents _Developer_ can license or becomes able to license, to make _Permitted Use of the Software_.
 
 ## Documentation Copyright License
 
