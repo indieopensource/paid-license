@@ -1,20 +1,11 @@
 {
   "private": true,
   "devDependencies": {
-    "commonform-cli": "^0.31.0",
-    "husky": "^1.3.1",
-    "npm-run-all": "^4.1.5"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run build:markdown && git add terms.md"
-    }
-  },
-  "scripts": {
-    "test": "commonform lint terms.cform",
-    "build": "run-p build:*",
-    "build:markdown": "commonform render -f markdown --title 'Paid Software License Terms' terms.cform > terms.md",
-    "build:html": "commonform render -f html5 --title 'Paid Software License Terms' --ordered-lists terms.cform > terms.html",
-    "build:docx": "commonform render -f docx --title 'Paid Software License Terms' --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx"
+    "commonform-commonmark": "^5.2.0",
+    "commonform-critique": "^1.0.3",
+    "commonform-docx": "^5.0.3",
+    "commonform-html": "^3.2.0",
+    "commonform-lint": "^3.0.2",
+    "json": "^9.0.6"
   }
 }
