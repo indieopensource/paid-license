@@ -43,7 +43,7 @@ _Developer_ agrees to publish the _Documentation_ so that _Customer Personnel_ c
 
 ## Refund Prepaid Fees for Removed Functionality
 
-If _Developer_ changes or removes functionality from the _Latest Version of the Software_ that was part of the functionality of the prior _Latest Version of the Software_, substantially reducing how useful the _Software_ is to _Customer_, and _Customer_ ends this agreement within three calendar months of the change, citing the change, _Developer_ agrees to refund any _Prepaid Fees_.
+If _Developer_ changes or removes functionality from the _Latest Version of the Software_ that was part of the functionality of the last _Latest Version of the Software_, substantially reducing how useful the _Software_ is to _Customer_, and _Customer_ ends this agreement within three calendar months of the change, citing the change, _Developer_ agrees to refund any _Prepaid Fees_.
 
 ## Keep Malicious Code Out of the Software
 
@@ -353,7 +353,7 @@ Both sides waive any objection to venue for any _Lawsuit_ in _Developer's Local 
 
 10.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
 
-11.  **Permission** means prior _Notice_ of consent.
+11.  **Permission** means _Notice_ of consent ahead of time.
 
 12.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of _Publicly Licensed_ _Software_.
 
