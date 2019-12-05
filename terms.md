@@ -9,7 +9,7 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
 # Scope
 
-1.  **Software** means the software identified on the _Order Form_.
+1.  **Software** means the software that the _Order Form_ specifies.
 
 2.  **Covered Versions** depend on the _Order Form_:
 
@@ -21,7 +21,7 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
     4.  A version of the _Software_ is **Generally Available** if _Developer_ offers it to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Testing", and "Preview" are not _Generally Available_.
 
-3.  **Use Limits** means any limits on use of the _Software_ specified on the _Order Form_, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
+3.  **Use Limits** means any limits on use of the _Software_ that the _Order Form_ specifies, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
 
 # Developer's Obligations
 
@@ -97,11 +97,11 @@ _Developer_ agrees to give _Customer_ prompt _Notice_ of any _Infringement Claim
 
 ## Pay Fees
 
-1.  _Customer_ agrees to pay the license fees specified on the _Order Form_.
+1.  _Customer_ agrees to pay the license fees that the _Order Form_ specifies.
 
-2.  _Customer_ agrees to pay those fees when specified on the _Order Form_, or if not specified, on entering into this agreement.
+2.  _Customer_ agrees to pay those fees when the _Order Form_ specifies, or if not specified, on entering into this agreement.
 
-3.  _Customer_ agrees to pay using the method specified on the _Order Form_.
+3.  _Customer_ agrees to pay using the method that the _Order Form_ specifies.
 
 4.  _Customer_ agrees to pay all tax on fees under this agreement, except tax _Developer_ owes on income.
 
@@ -235,7 +235,7 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 # Term and Renewal
 
-This agreement will continue for the initial term specified on the _Order Form_. If the _Order Form_ specifies automatic renewal, then this agreement will renew automatically for additional periods, each as long as the initial term.
+This agreement will continue for the initial term the _Order Form_ specifies. If the _Order Form_ specifies automatic renewal, then this agreement will renew automatically for additional periods, each as long as the initial term.
 
 # Changes
 
