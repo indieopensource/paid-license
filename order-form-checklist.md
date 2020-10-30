@@ -12,7 +12,7 @@
 
 ## Optional
 - Identify a particular version or version range of the _Software_.
-- Specify an extended patente guarantee.
+- Specify an extended patent guarantee.
 - Specify when _Customer_ will pay the fees.
 - Specify that the _Developer_ gets publicity rights.
 - Specify automatic renewal of the term.
