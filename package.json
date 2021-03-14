@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "commonform-commonmark": "^5.2.0",
+    "commonform-commonmark": "^6.0.0",
     "commonform-critique": "^1.0.3",
     "commonform-docx": "^5.0.3",
     "commonform-html": "^3.2.0",
