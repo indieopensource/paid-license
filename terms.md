@@ -9,19 +9,19 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
 # Scope
 
-1.  **Software** means the software that the _Order Form_ specifies.
+- **Software** means the software that the _Order Form_ specifies.
 
-2.  **Covered Versions** depend on the _Order Form_:
+- **Covered Versions** depend on the _Order Form_:
 
-    1.  If the _Order Form_ specifies a particular version, _Covered Versions_ include only that version.
+  - If the _Order Form_ specifies a particular version, _Covered Versions_ include only that version.
 
-    2.  If the _Order Form_ specifies a version range, such as "1.y.z", then _Covered Versions_ include the latest _Generally Available_ version in that range on the date of this agreement, as well as any new versions within that range that _Developer_ makes _Generally Available_ during the term of this agreement.
+  - If the _Order Form_ specifies a version range, such as "1.y.z", then _Covered Versions_ include the latest _Generally Available_ version in that range on the date of this agreement, as well as any new versions within that range that _Developer_ makes _Generally Available_ during the term of this agreement.
 
-    3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.
+  - If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.
 
-    4.  A version of the _Software_ is **Generally Available** if _Developer_ offers it to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Testing", and "Preview" are not _Generally Available_.
+  - A version of the _Software_ is **Generally Available** if _Developer_ offers it to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Testing", and "Preview" are not _Generally Available_.
 
-3.  **Use Limits** means any limits on use of the _Software_ that the _Order Form_ specifies, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
+- **Use Limits** means any limits on use of the _Software_ that the _Order Form_ specifies, such as such as maximum numbers of _Users_, _Running Instances_, or _Concurrent Users_.
 
 # Developer's Obligations
 
@@ -53,11 +53,11 @@ _Developer_ agrees to keep the _Software_ free of malicious code, such as comput
 
 With the following exceptions, _Developer_ agrees to keep the _Software_ free of code that automatically limits or disables its functionality:
 
-1.  _Developer_ may include code that limits or disables functionality on failure to validate _License Keys_.
+- _Developer_ may include code that limits or disables functionality on failure to validate _License Keys_.
 
-2.  _Developer_ may include code that automatically limits or disables functionality based on automatic monitoring of _Use Limits_.
+- _Developer_ may include code that automatically limits or disables functionality based on automatic monitoring of _Use Limits_.
 
-3.  _Developer_ may include code that reports data about _License Keys_ validation and _Use Limits_ monitoring back to _Developer_ systems.
+- _Developer_ may include code that reports data about _License Keys_ validation and _Use Limits_ monitoring back to _Developer_ systems.
 
 ## Protect Customer from Liability
 
@@ -67,11 +67,11 @@ So long as _Customer_ has met its obligations under [Pay Fees](#Pay_Fees):
 
 Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Customer_ _Indemnification_ for _Legal Claims_ by others alleging that _Permitted Use of the Software_ does any of these:
 
-1.  infringes any copyright, trademark, or trade secret
+- infringes any copyright, trademark, or trade secret
 
-2.  infringes any patent covered by _Developer_'s patent guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
+- infringes any patent covered by _Developer_'s patent guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
 
-3.  breaks any law
+- breaks any law
 
 ### Provide Assurance About Patents
 
@@ -97,15 +97,15 @@ _Developer_ agrees to give _Customer_ prompt _Notice_ of any _Infringement Claim
 
 ## Pay Fees
 
-1.  _Customer_ agrees to pay the license fees that the _Order Form_ specifies.
+- _Customer_ agrees to pay the license fees that the _Order Form_ specifies.
 
-2.  _Customer_ agrees to pay those fees when the _Order Form_ specifies, or if not specified, on entering into this agreement.
+- _Customer_ agrees to pay those fees when the _Order Form_ specifies, or if not specified, on entering into this agreement.
 
-3.  _Customer_ agrees to pay using the method that the _Order Form_ specifies.
+- _Customer_ agrees to pay using the method that the _Order Form_ specifies.
 
-4.  _Customer_ agrees to pay all tax on fees under this agreement, except tax _Developer_ owes on income.
+- _Customer_ agrees to pay all tax on fees under this agreement, except tax _Developer_ owes on income.
 
-5.  [Pay Fees](#Pay_Fees) continues after this agreement ends.
+- [Pay Fees](#Pay_Fees) continues after this agreement ends.
 
 ## Keep License Keys Confidential and Secure
 
@@ -115,27 +115,27 @@ _Customer_ agrees to share _License Keys_ only as needed to make _Permitted Use 
 
 _Customer_ agrees not to:
 
-1.  reverse engineer the _Software_
+- reverse engineer the _Software_
 
-2.  exceed the _Use Limits_
+- exceed the _Use Limits_
 
-3.  circumvent any access controls or other limits of the _Software_
+- circumvent any access controls or other limits of the _Software_
 
-4.  circumvent code permitted under [Limit Validation Code in the Software](#Limit_Validation_Code_in_the_Software)
+- circumvent code permitted under [Limit Validation Code in the Software](#Limit_Validation_Code_in_the_Software)
 
-5.  violate another's _Intellectual Property Right_ or other legal right using the _Software_
+- violate another's _Intellectual Property Right_ or other legal right using the _Software_
 
-6.  breach any agreement using the _Software_
+- breach any agreement using the _Software_
 
-7.  break any law using the _Software_
+- break any law using the _Software_
 
-8.  break any import or export law by exporting or reexporting the _Software_
+- break any import or export law by exporting or reexporting the _Software_
 
-9.  remove proprietary notices from the _Software_ or the _Documentation_
+- remove proprietary notices from the _Software_ or the _Documentation_
 
-10.  use the _Software_ to analyze it against any competitive product or service
+- use the _Software_ to analyze it against any competitive product or service
 
-11.  disclose data about the performance of the _Software_
+- disclose data about the performance of the _Software_
 
 ## Enforce Rules About Use
 
@@ -145,11 +145,11 @@ _Customer_ agrees to make sure _Customer Personnel_ and other personnel abide by
 
 Subject to [Indemnification Process](#Indemnification_Process), _Customer_ agrees to give _Developer_ _Indemnification_ from _Legal Claims_ by others based on:
 
-1.  _Customer_ breach of this agreement
+- _Customer_ breach of this agreement
 
-2.  _Use of the Software at Customer's Own Risk_
+- _Use of the Software at Customer's Own Risk_
 
-3.  misuse of _Customer_'s _License Keys_
+- misuse of _Customer_'s _License Keys_
 
 # Intellectual Property
 
@@ -181,33 +181,33 @@ Apart from the licenses in [Intellectual Property](#Intellectual_Property), this
 
 If any part of the _Software_ is or becomes _Publicly Licensed_ during the term of this agreement:
 
-1.  During the term of this agreement, _Customer_ must abide by this agreement, not the _Public License_.
+- During the term of this agreement, _Customer_ must abide by this agreement, not the _Public License_.
 
-2.  After this agreement ends, _Customer_ must abide by the _Public License_.
+- After this agreement ends, _Customer_ must abide by the _Public License_.
 
 # Liability
 
 ## Agreed Legal Remedies
 
-1.  Each side's only legal remedy for _Legal Claims_ covered by _Indemnification_ will be _Indemnification_.
+- Each side's only legal remedy for _Legal Claims_ covered by _Indemnification_ will be _Indemnification_.
 
-2.  _Customer_'s only legal remedy for changes to software functionality in the _Latest Version of the Software_ will be refunds under [Refund Prepaid Fees for Removed Functionality](#Refund_Prepaid_Fees_for_Removed_Functionality).
+- _Customer_'s only legal remedy for changes to software functionality in the _Latest Version of the Software_ will be refunds under [Refund Prepaid Fees for Removed Functionality](#Refund_Prepaid_Fees_for_Removed_Functionality).
 
 ## Excuses
 
 Neither side will be liable for any failure or delay in meeting any obligation under this agreement caused by:
 
-1.  failure of the other side or its personnel to meet their obligations under this agreement
+- failure of the other side or its personnel to meet their obligations under this agreement
 
-2.  actions done or delayed on written request of the other side
+- actions done or delayed on written request of the other side
 
-3.  fire, flood, earthquake, and other natural disasters
+- fire, flood, earthquake, and other natural disasters
 
-4.  declared and undeclared wars, acts of terrorism, sabotage, riots, civil disorders, rebellions, and revolutions
+- declared and undeclared wars, acts of terrorism, sabotage, riots, civil disorders, rebellions, and revolutions
 
-5.  extraordinary malfunction of Internet infrastructure, data centers, or communications utilities
+- extraordinary malfunction of Internet infrastructure, data centers, or communications utilities
 
-6.  government actions taken in response to any of these causes
+- government actions taken in response to any of these causes
 
 ## Only Express Warranties
 
@@ -223,15 +223,15 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 [Limited Damages](#Limited_Damages) does not limit damages for breach of:
 
-1.  [Enforce Rules About Use](#Enforce_Rules_About_Use)
+- [Enforce Rules About Use](#Enforce_Rules_About_Use)
 
-2.  [Indemnify Customer](#Indemnify_Customer)
+- [Indemnify Customer](#Indemnify_Customer)
 
-3.  [Pay Fees](#Pay_Fees)
+- [Pay Fees](#Pay_Fees)
 
-4.  [Follow Rules About Use](#Follow_Rules_About_Use)
+- [Follow Rules About Use](#Follow_Rules_About_Use)
 
-5.  [Indemnify Developer](#Indemnify_Developer)
+- [Indemnify Developer](#Indemnify_Developer)
 
 # Term and Renewal
 
@@ -243,27 +243,27 @@ This agreement will continue for the initial period the _Order Form_ specifies. 
 
 Subject to [Change Process](#Change_Process):
 
-1.  _Customer_ may end this agreement at any time.
+- _Customer_ may end this agreement at any time.
 
-2.  If the _Order Form_ specifies flexible pricing for increased _Use Limits_, _Customer_ may increase its _Use Limits_ within that pricing at any time. Changes to _Use Limits_ take effect as soon as _Customer_ pays the added fees.
+- If the _Order Form_ specifies flexible pricing for increased _Use Limits_, _Customer_ may increase its _Use Limits_ within that pricing at any time. Changes to _Use Limits_ take effect as soon as _Customer_ pays the added fees.
 
 ## Changes Developer May Make
 
 Subject to [Change Process](#Change_Process):
 
-1.  If _Customer_ breaches this agreement, _Developer_ gives _Notice_ of the breach, and _Customer_ does not cure the breach within 30 calendar days of receiving _Notice_, _Developer_ may end this agreement immediately.
+- If _Customer_ breaches this agreement, _Developer_ gives _Notice_ of the breach, and _Customer_ does not cure the breach within 30 calendar days of receiving _Notice_, _Developer_ may end this agreement immediately.
 
-2.  _Developer_ may end this agreement when it would otherwise automatically renew by giving _Notice_ at least 30 calendar days ahead of time.
+- _Developer_ may end this agreement when it would otherwise automatically renew by giving _Notice_ at least 30 calendar days ahead of time.
 
-3.  _Developer_ may take any of these steps in response to an _Infringement Claim_:
+- _Developer_ may take any of these steps in response to an _Infringement Claim_:
 
-    1.  _Developer_ may release a new version of the _Software_ so that _Permitted Use of the Software_ will no longer infringe or break the law.
+  - _Developer_ may release a new version of the _Software_ so that _Permitted Use of the Software_ will no longer infringe or break the law.
 
-    2.  If the problem is infringement, _Developer_ may get a license for _Customer_ so that _Permitted Use of the Software_ will no longer infringe.
+  - If the problem is infringement, _Developer_ may get a license for _Customer_ so that _Permitted Use of the Software_ will no longer infringe.
 
-    3.  If the problem is illegality, _Developer_ may get the government approvals, licenses, or other requirements needed to abide by the law.
+  - If the problem is illegality, _Developer_ may get the government approvals, licenses, or other requirements needed to abide by the law.
 
-    4.  _Developer_ may refund any _Prepaid Fees_ and end this agreement immediately.
+  - _Developer_ may refund any _Prepaid Fees_ and end this agreement immediately.
 
 # Process
 
@@ -333,52 +333,52 @@ Both sides waive any objection to venue for any _Lawsuit_ in _Developer's Local 
 
 # Definitions
 
-1.  **Concurrent Users** means the number of _Users_ logged into or using the _Software_ at any given time.
+- **Concurrent Users** means the number of _Users_ logged into or using the _Software_ at any given time.
 
-2.  **Customer Personnel** means _Customer_'s employees and each _Customer_ subsidiary's employees, as well as independent contractors providing services to _Customer_.
+- **Customer Personnel** means _Customer_'s employees and each _Customer_ subsidiary's employees, as well as independent contractors providing services to _Customer_.
 
-3.  **Documentation** means documentation for the _Software_.
+- **Documentation** means documentation for the _Software_.
 
-4.  **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
+- **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
 
-5.  **Infringement Claim** means a court order against _Customer_'s use of the _Software_ based on a claim that it infringes any _Intellectual Property Right_ or breaks any law, or a threat of that kind of claim that _Developer_ believes credible.
+- **Infringement Claim** means a court order against _Customer_'s use of the _Software_ based on a claim that it infringes any _Intellectual Property Right_ or breaks any law, or a threat of that kind of claim that _Developer_ believes credible.
 
-6.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+- **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-7.  **Latest Version of the Software** means the latest of the _Covered Versions_ of the _Software_.
+- **Latest Version of the Software** means the latest of the _Covered Versions_ of the _Software_.
 
-8.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
+- **Legal Claims** means claims, demands, lawsuits, and other legal actions.
 
-9.  **License Keys** means license keys or other secrets used to validate rights to use the _Software_.
+- **License Keys** means license keys or other secrets used to validate rights to use the _Software_.
 
-10.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
+- **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
 
-11.  **Permission** means _Notice_ of consent ahead of time.
+- **Permission** means _Notice_ of consent ahead of time.
 
-12.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of _Publicly Licensed_ _Software_.
+- **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of _Publicly Licensed_ _Software_.
 
-13.  **Public License** means a license to the public, or to everyone who receives a copy.
+- **Public License** means a license to the public, or to everyone who receives a copy.
 
-14.  **Publicly Licensed** means published with a notice of a _Public License_.
+- **Publicly Licensed** means published with a notice of a _Public License_.
 
-15.  **Permitted Use of the Software** means _Customer_'s use of the _Software_, other than _Use of the Software at Customer's Own Risk_.
+- **Permitted Use of the Software** means _Customer_'s use of the _Software_, other than _Use of the Software at Customer's Own Risk_.
 
-16.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
+- **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
 
-17.  **Running Instances** means the number of copies of the _Software_ _Customer_ runs at any given time.
+- **Running Instances** means the number of copies of the _Software_ _Customer_ runs at any given time.
 
-18.  **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
+- **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
 
-19.  **Use of the Software at Customer's Own Risk** means:
+- **Use of the Software at Customer's Own Risk** means:
 
-     1.  use of the _Software_ in breach of this agreement
+  - use of the _Software_ in breach of this agreement
 
-     2.  use of the _Software_ with changes, additions, or in combination with other software, computers, or data, in a way that infringes someone else's _Intellectual Property Right_ or breaks the law, if use of the _Software_ as provided, as described by the _Documentation_, would not
+  - use of the _Software_ with changes, additions, or in combination with other software, computers, or data, in a way that infringes someone else's _Intellectual Property Right_ or breaks the law, if use of the _Software_ as provided, as described by the _Documentation_, would not
 
-     3.  use of other than the _Latest Version of the Software_ that infringes someone else's _Intellectual Property Right_ or breaks the law, if _Customer_ had _Notice_ that using the _Latest Version of the Software_ would not
+  - use of other than the _Latest Version of the Software_ that infringes someone else's _Intellectual Property Right_ or breaks the law, if _Customer_ had _Notice_ that using the _Latest Version of the Software_ would not
 
-     4.  unauthorized use of the _Software_ with _Customer_ _License Keys_
+  - unauthorized use of the _Software_ with _Customer_ _License Keys_
 
-20.  **Users** means _Customer Personnel_ using the _Software_.
+- **Users** means _Customer Personnel_ using the _Software_.
 
-21.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
+- **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
