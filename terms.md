@@ -273,7 +273,7 @@ Both sides agree that to receive _Indemnification_ under this agreement, they mu
 
 ## Notice Process
 
-Both sides agree that to give _Notice_ under this agreement, the side giving _Notice_ must send by e-mail to the address the recipient given with its signature, or to a different address given later for _Notice_ going forward. If either side finds that e-mail can't be delivered to the e-mail address given, it may give _Notice_ by registered mail to the address on file for the recipient with the state under whose laws it is organized.
+Both sides agree that to give _Notice_ under this agreement, the side giving _Notice_ must send by e-mail to the address the recipient gave with its signature, or to a different address given later for _Notice_ going forward. If either side finds that e-mail can't be delivered to the e-mail address given, it may give _Notice_ by registered mail to the address on file for the recipient with the state under whose laws it is organized.
 
 ## Change Process
 
