@@ -15,4 +15,4 @@ RUN npm ci
 
 COPY . /workdir
 
-CMD /usr/bin/unoconv --listener && make
+CMD make

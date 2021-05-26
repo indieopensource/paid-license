@@ -29,7 +29,7 @@ build/%.html: build/%.form.json build/%.title build/%.edition | build $(COMMONMA
 	$(HTML) stringify --title "$(shell cat build/$*.title)" --edition "$(shell cat build/$*.edition)" --html5 --lists < $< > $@
 
 %.pdf: %.docx
-	unoconv $<
+	soffice --headless --convert-to pdf --outdir build "$<"
 
 build/%.form.json: %.md | build $(COMMONMARK)
 	$(COMMONMARK) parse --only form < $< > $@
